@@ -18,3 +18,7 @@ I enjoy using programming to explore mathematical ideas, algorithms and data.
 - Machine learning
 - C++
 - Data analysis with Python
+
+## Statistics
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Garen999&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
