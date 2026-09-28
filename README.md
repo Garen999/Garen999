@@ -1,4 +1,4 @@
-# Hi, I'm Garen
+## About Me
 
 I'm a Year 13 student interested in **Computer Science, Mathematics and Machine Learning**.
 
