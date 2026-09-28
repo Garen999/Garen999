@@ -1,4 +1,4 @@
-## Tech Stack# Hi, I'm Garen 👋
+# Hi, I'm Garen 👋
 
 I'm a Year 13 student interested in **Computer Science, Mathematics and Machine Learning**.
 
