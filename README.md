@@ -1,24 +1,38 @@
 ## About Me
 
-I'm a Year 13 student interested in **Computer Science, Mathematics and Machine Learning**.
+I'm a Year 13 student in the UK studying **Mathematics, Further Mathematics, Computer Science and Physics**, with a strong interest in mathematical programming and computational problem-solving.
 
-I enjoy using programming to explore mathematical ideas, algorithms and data.
+I'm particularly interested in **machine learning, algorithms, optimisation and quantitative computing**, and I'm currently developing my programming and mathematical skills through independent projects.
 
-## Languages & Tools
+## Projects
 
-**Languages:** `Python` `C++`
+- **[Weather Predictor](https://github.com/Garen999/london-weather-predictor)** — Analysing historical London weather data using Python, Pandas and NumPy to explore relationships between weather variables and develop predictive models.
+- **Pathfinding Visualiser** *(In progress)* — Developing a C++ application to explore graph algorithms and pathfinding techniques.
+- **Battle Gauntlet** *(In progress)* — Building a 2D turn-based RPG using Python and Pygame for my A-Level Computer Science coursework.
+- **[Noughts & Crosses AI](https://github.com/Garen999/tic-tac-toe-minimax-ai)** — Implemented a game-playing program using a decision tree to evaluate possible moves.
 
-**Libraries:** `pandas` `NumPy` `matplotlib` `scikit-learn` `Pygame`
+## Technologies
 
-**Tools:** `Git` `GitHub` `VS Code`
+**Languages:** Python · C++
+
+**Libraries:** NumPy · Pandas · scikit-learn · Matplotlib · Seaborn
+
+**Tools:** Git · GitHub · VS Code
 
 ## Currently Learning
 
-- Data structures & algorithms
-- Machine learning
-- C++
-- Data analysis with Python
+- C++ and data structures & algorithms
+- Statistical analysis and machine learning fundamentals
+- Scientific computing with Python
+- Algorithm design and optimisation
 
-## Statistics
+## Areas of Interest
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Garen999&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+- Machine Learning & Artificial Intelligence
+- Algorithms & Optimisation
+- Probability, Statistics & Data Science
+- Quantitative Finance & Mathematical Computing
+
+## Future Goals
+
+I'm interested in pursuing a degree in **Mathematics and Computer Science**, with the aim of exploring careers in machine learning engineering, quantitative development and algorithm engineering.
