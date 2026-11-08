@@ -7,7 +7,7 @@ I'm particularly interested in **machine learning, algorithms, optimisation and 
 ## Projects
 
 - **[Weather Predictor](https://github.com/Garen999/london-weather-predictor)** — Analysing historical London weather data using Python, Pandas and NumPy to explore relationships between weather variables and develop predictive models.
-- **Pathfinding Visualiser** *(In progress)* — Developing a C++ application to explore graph algorithms and pathfinding techniques.
+- **[Pathfinding Visualiser](https://github.com/Garen999/pathfinding-visualiser)** — Developing a C++ application to explore graph algorithms and pathfinding techniques.
 - **Battle Gauntlet** *(In progress)* — Building a 2D turn-based RPG using Python and Pygame for my A-Level Computer Science coursework.
 - **[Noughts & Crosses AI](https://github.com/Garen999/tic-tac-toe-minimax-ai)** — Implemented a game-playing program using a decision tree to evaluate possible moves.
 
